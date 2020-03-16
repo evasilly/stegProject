@@ -1,0 +1,19 @@
+E:\Папка\downloads\StegProject\StegProject\bin\Debug\StegProject.exe
+E:\Папка\downloads\StegProject\StegProject\bin\Debug\StegProject.pdb
+E:\Папка\downloads\StegProject\StegProject\obj\x86\Debug\StegProject.csprojResolveAssemblyReference.cache
+E:\Папка\downloads\StegProject\StegProject\obj\x86\Debug\StegProject.Form1.resources
+E:\Папка\downloads\StegProject\StegProject\obj\x86\Debug\StegProject.Properties.Resources.resources
+E:\Папка\downloads\StegProject\StegProject\obj\x86\Debug\StegProject.csproj.GenerateResource.Cache
+E:\Папка\downloads\StegProject\StegProject\obj\x86\Debug\StegProject.exe
+E:\Папка\downloads\StegProject\StegProject\obj\x86\Debug\StegProject.pdb
+E:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.exe
+E:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.pdb
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\bin\Debug\StegProject.exe
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\bin\Debug\StegProject.pdb
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.csprojAssemblyReference.cache
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.Form1.resources
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.Properties.Resources.resources
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.csproj.GenerateResource.cache
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.csproj.CoreCompileInputs.cache
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.exe
+K:\Учёба\Семестр 4\Информационная безопасность\StegProject\StegProject\obj\x86\Debug\StegProject.pdb
